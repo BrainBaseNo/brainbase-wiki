@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'BrainBase Wiki',
   tagline: 'Det foretrukne nettverket for selvstendige konsulenter',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://brainbase-wiki.netlify.app',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -50,8 +50,8 @@ const config = {
   ],
   plugins: [require.resolve("@cmfcmf/docusaurus-search-local")],
   i18n: {
-    defaultLocale: 'no',
-    locales: ['no'],
+    defaultLocale: 'en-GB',
+    locales: ['en-GB']
   },
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
@@ -65,13 +65,19 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'consultant-wiki/index',
             position: 'left',
-            label: 'Wiki',
+            label: 'Konsulentwiki',
+          },
+          {
+            type: 'doc',
+            docId: 'network-contributions/index',
+            position: 'left',
+            label: 'Bidra i nettverket',
           },
           {href: 'https://blogg.brainbase.no', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/BrainBaseNo/brainbase-web',
+            href: 'https://github.com/BrainBaseNo/brainbase-wiki',
             label: 'GitHub',
             position: 'right',
           },

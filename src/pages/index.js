@@ -18,7 +18,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            BrainBase Wiki - How to contribute 
+            Hvordan bidra til wikien
           </Link>
         </div>
       </div>
