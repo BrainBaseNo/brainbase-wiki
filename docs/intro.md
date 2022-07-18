@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# BrainBase Wiki - Hvordan bidra
+# BrainBase Wiki - slik kan du bidra
 
 BrainBase wiki er en samling av ressurser som er nyttige for alle som driver som selvstendige konsulenter eller små selskaper. Alle kan bidra med innhold på wikien. Det eneste du trenger er en [github konto](https://github.com). 
 
