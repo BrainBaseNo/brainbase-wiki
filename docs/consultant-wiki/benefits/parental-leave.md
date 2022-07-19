@@ -1,6 +1,3 @@
----
-sidebar_position: 2
----
 # Foreldrepermisjon
 **OBS! Husk å sjekk aktuelle tidsfrister for søknader og når ting skal være registrert i ditt tilfelle. Dette kan endre seg over tid**
 
