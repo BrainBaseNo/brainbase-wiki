@@ -126,7 +126,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} BrainBase network. Built with Docusaurus. Images from blush.design`,
       },
       prism: {
         theme: lightCodeTheme,
