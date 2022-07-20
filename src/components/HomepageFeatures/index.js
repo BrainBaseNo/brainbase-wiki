@@ -17,18 +17,18 @@ const FeatureList = [
     Svg: require('@site/static/img/events.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        På våre arrangementer kan du treffe andre selvstendige konsulenter. Vi møtes hver siste fredag i måneden til BB Beer. Fremover vil vi også 
+        arrangere andre type events, både faglige og sosiale. Her kan du finne en oversikt over ting som skjer.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Vurderer du å bli selvstendig?',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+       Da kan du sende <a href="mailto:kontakt@brainbase.no">en mail til oss</a> eller kontakte oss på telefon 971 72 278. Vi har lang erfaring med å hjelpe folk i gang
+       og tar gjerne en prat med deg om dette.
       </>
     ),
   },
