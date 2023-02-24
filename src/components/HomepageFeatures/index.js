@@ -13,12 +13,13 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Events',
+    title: 'Meetups',
     Svg: require('@site/static/img/events.svg').default,
     description: (
       <>
-        På våre arrangementer kan du treffe andre selvstendige konsulenter. Vi møtes hver siste fredag i måneden til BB Beer. Fremover vil vi også 
-        arrangere andre type events, både faglige og sosiale. Her kan du finne en oversikt over ting som skjer.
+        På meetups kan du treffe andre selvstendige konsulenter. Vi møtes hver siste torsdag i måneden til BB Beer. Vi har også lunch meetups 
+        og i fremtiden vil vi også ha andre typer meetups.<br/><br/>
+        <a href="/docs/meetups">Se fremtidige meetups</a>
       </>
     ),
   },

@@ -75,6 +75,12 @@ const config = {
             position: 'left',
             label: 'Bidra i nettverket',
           },
+          {
+            type: 'doc',
+            docId: 'meetups/index',
+            position: 'left',
+            label: 'Meetups',
+          },
           {href: 'https://blogg.brainbase.no', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/BrainBaseNo/brainbase-wiki',
