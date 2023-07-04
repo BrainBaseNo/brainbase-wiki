@@ -17,9 +17,19 @@ Det er mange måter en kan bidra på:
 Her følger en beskrivalse av de nevnte
 
 ### Få bedrifter til å registrere seg på brainbase.no
-Dersom en bedrift registrerer seg på plattformen og finner en konsulent som man skriver kontrakt med, har du også krav på 1% av timeraten som konsulenten får.
+I BrainBase har vi som mål å være den foretrukne plattformen for selvstendige konsulenter. Den ambisjonen innebærer flere ting, men et av de viktigste målene våre er å kunne tilby flere oppdrag til de konsulentene som er en del av vårt fellesskap.
 
-I dette tilfellet er det noen ganger litt vanskelig for oss å vite om kontrakt er inngått. Vi jobber med å forbedre denne delen av plattformen. Enn så lenge blir vi veldig glade om man sier fra om eventuelle avtaler som har blitt inngått.
+Vi ønsker å teste ut nye modeller for kundevekst som skalerer, og vi tror også at flere ulike modeller kan fungere ved siden av hverandre. Én av modellene vi ønsker å introdusere baserer seg på styrken i BrainBase-nettverket, samtidig som den tydelig illustrerer at BrainBase ikke har noen som sitter “på utsiden” med en forretningsidé om å kapitalisere på å videreformidle konsulenter.
+
+BrainBase får i dag 3% av konsulentens timepris for oppdrag som starter via vårt nettverk. I dag kan 1 av disse 3% gå til den konsulenten som hjelper en annen konsulent i oppdrag (med det praktiske rundt kontrakt, koordinering osv).  Denne 1%-en løper under hele oppdragets varighet.
+
+BrainBase har en insentivmodell som belønner de konsulenter i nettverket som bidrar til å få helt nye kunder om bord til BrainBase og hvor dette nye kundeforholdet materialiserer seg i et eller flere oppdrag til konsulenter i nettverket. Belønningen består i 1% av kundens omsetning, med en varighet på 6 måneder fra start av første oppdrag hos vedkommende kunde. Varigheten på belønningsperioden er 6 måneder fra første oppdrag er signert, men maks 18 måneder fra kunden er registrert hos BrainBase. Belønningen vil utbetales etterskuddsvis; per nå betaler vi ut 1%-kickbacken (for enkeltoppdrag) halvårlig. Det er mulig vi vil kunne tilby hyppigere utbetalinger i fremtiden.
+
+Hva kan en slik belønning bety konkret? Se for deg at du får en kunde til BrainBase, og denne kunden leier inn 2 konsulenter innenfor BrainBase-modellen, med gjennomsnittlig timepris på 1.200,- i pris til kunden:
+
+Gitt 1600 timer per år vil dette utgjøre (1.200,- x 800 timer x 2 konsulenter x 0,01) 19.200,- i belønning til konsulenten som har hjulpet med å få kunden ombord.
+Dersom kunden ikke er selvbetjent og samme konsulent også bistår med det praktiske rundt selve oppdragene kommer 1%-en for dette i tillegg, og vil utgjøre:
+1.200,- x 1.600 timer x 2 konsulenter x 0,01) 38.400,- for 12 måneder.
 
 ### Registrere oppdrag på vegne av en bedrift
 Noen ganger kan man havne i en situasjon der en bedrift man har kjennskap til har behov for konsulenthjelp. Om du havner i en slik situasjon og du ønsker å hjelpe er det selvsagt mulig å oppfordre bedriften å registrere seg som bedrift på plattformen. Men noen ganger ønsker ikke bedriften å registrere seg og heller få hjelp til å finne noen. Som konsulent på plattformen har du mulighet til å registrere oppdrag på plattformen. Slik gjør du det:
