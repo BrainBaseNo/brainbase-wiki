@@ -24,7 +24,7 @@ Ved å følge disse retningslinjene vil du bidra til å ivareta et støttende og
 Alle konsulenter i nettverket må følge våre strenge regler for antikorrupsjon. 
 
 ### RAPPORTERING AV BRUDD PÅ CODE OF CONDUCT
-Hvis du blir utsatt for, eller vitne til, brudd på adferdskoden innen kommunikasjonskanalene eller på events i regi av BrainBase, kan det rapporteres til styret i BrainBase eller til en administrator på plattformen.
+Hvis du blir utsatt for, eller vitne til, brudd på adferdskoden innen kommunikasjonskanalene eller på arrangementer, kan det rapporteres til styret i BrainBase eller til en administrator på plattformen.
 
 ### HÅNDHEVING
 Ved brudd på vår Code of Conduct vil det gis en advarsel. Ved gjentatte brudd, eller brudd som anses som særdeles alvorlig, vil konsekvensen være utestengelse fra nettverket.
