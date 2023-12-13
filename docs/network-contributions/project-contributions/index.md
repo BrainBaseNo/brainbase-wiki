@@ -4,106 +4,44 @@ title: Delingsmodell for oppdrag
 description: Hjelpe andre konsulenter inn i oppdrag
 hide_table_of_contents: false
 ---
-Dersom du hjelper en annen konsulent inn i et oppdrag som er formidlet gjennom plattformen vil du få 1% av de 3 prosentene. På disse sidene beskriver vi hvordan du kan bidra og hva du må gjøre for å få utbetalt kickback fra nettverket.
+# Delingsmodell på BrainBase plattformen
+For å stimulere til å få flere oppdrag inn på plattformen har vi i tillegg en delingsmodell som belønner de som kegger ut oppdrag på plattformen. Her er gjeldende modell, aktiv fra 12.12.2023. 
 
-### Dette høres interessant ut - hvordan kan jeg bidra
+**BrainBase tar alltid 2% i plattformavgift for alle oppdrag som blir formidlet på plattformen. Ingen unntak.**
 
-Det er mange måter en kan bidra på:
+Resten av cut'en blir forelt utifra følgende delingsmodell:
 
-* Få bedrifter til å registrere seg på brainbase.no
-* Registrere oppdrag på vegne av en bedrift 
-* Ta ansvar for oppdrag registrert på Trello boardet BrainBase utlysninger
- 
-Her følger en beskrivalse av de nevnte
+* Alle oppdrag fra BrainBase eksisterende kunder og fremtidige kunder (det vil si avtaler som BrainBase som selskap skaffer - inkludert dynamiske innkjøpsordninger i offentlig), vil ha 1 % cut på toppen av 2% plattformavgift. Den ene prosenten tilfaller personen som la ut oppdraget og betales tilbake som kickback.
+* Hvis du skaffer en kundelead som ender i at kunde registrerer seg og bruker vår selvbetjeningsløsning, får du 1 av de 3 prosentene hvis dette ender med oppdrag til en konsulent i nettverket. Dette gjelder så lenge oppdraget varer.
+* Uavhengige konsulenter og små selskaper i vårt nettverk kan legge ut sine oppdrag og få en cut: de legger ut sine kunders oppdrag på BB og får en cut på mellom 1 % og 3 %. BrainBase tar sine 2%. Totalt maks 5%. Konsulenten som får oppdraget sitter igjen med minimum 95%. Konsulenten/selskapet må gjøre alt arbeid knyttet til administrasjon av oppdraget.
+* Vi tror at partnerskap med noen få utvalgte, mindre konsulentfirmaer kan hjelpe oss å få flere prosjekter til plattformen. Partnerfirmaet får 3 % og BB tar 2 % - som alltid. Firmaet som legger ut prosjektet vil gjøre all arbeidet knyttet til administrasjon av oppdraget.
 
-### Få bedrifter til å registrere seg på brainbase.no
-I BrainBase har vi som mål å være den foretrukne plattformen for selvstendige konsulenter. Den ambisjonen innebærer flere ting, men et av de viktigste målene våre er å kunne tilby flere oppdrag til de konsulentene som er en del av vårt fellesskap.
+Det vil si: Som konsulent sitter du alltid igjen med mellom 95 og 97% av inntekten selv.
 
-Vi ønsker å teste ut nye modeller for kundevekst som skalerer, og vi tror også at flere ulike modeller kan fungere ved siden av hverandre. Én av modellene vi ønsker å introdusere baserer seg på styrken i BrainBase-nettverket, samtidig som den tydelig illustrerer at BrainBase ikke har noen som sitter “på utsiden” med en forretningsidé om å kapitalisere på å videreformidle konsulenter.
+### FAQ Partnermodell (for konsulenter og partnerselskaper)
 
-BrainBase får i dag 3% av konsulentens timepris for oppdrag som starter via vårt nettverk. I dag kan 1 av disse 3% gå til den konsulenten som hjelper en annen konsulent i oppdrag (med det praktiske rundt kontrakt, koordinering osv).  Denne 1%-en løper under hele oppdragets varighet.
-
-BrainBase har en insentivmodell som belønner de konsulenter i nettverket som bidrar til å få helt nye kunder om bord til BrainBase og hvor dette nye kundeforholdet materialiserer seg i et eller flere oppdrag til konsulenter i nettverket. Belønningen består i 1% av kundens omsetning, med en varighet på 6 måneder fra start av første oppdrag hos vedkommende kunde. Varigheten på belønningsperioden er 6 måneder fra første oppdrag er signert, men maks 18 måneder fra kunden er registrert hos BrainBase. Belønningen vil utbetales etterskuddsvis; per nå betaler vi ut 1%-kickbacken (for enkeltoppdrag) halvårlig. Det er mulig vi vil kunne tilby hyppigere utbetalinger i fremtiden.
-
-Hva kan en slik belønning bety konkret? Se for deg at du får en kunde til BrainBase, og denne kunden leier inn 2 konsulenter innenfor BrainBase-modellen, med gjennomsnittlig timepris på 1.200,- i pris til kunden:
-
-Gitt 1600 timer per år vil dette utgjøre (1.200,- x 800 timer x 2 konsulenter x 0,01) 19.200,- i belønning til konsulenten som har hjulpet med å få kunden ombord.
-Dersom kunden ikke er selvbetjent og samme konsulent også bistår med det praktiske rundt selve oppdragene kommer 1%-en for dette i tillegg, og vil utgjøre:
-1.200,- x 1.600 timer x 2 konsulenter x 0,01) 38.400,- for 12 måneder.
-
-### Registrere oppdrag på vegne av en bedrift
-Noen ganger kan man havne i en situasjon der en bedrift man har kjennskap til har behov for konsulenthjelp. Om du havner i en slik situasjon og du ønsker å hjelpe er det selvsagt mulig å oppfordre bedriften å registrere seg som bedrift på plattformen. Men noen ganger ønsker ikke bedriften å registrere seg og heller få hjelp til å finne noen. Som konsulent på plattformen har du mulighet til å registrere oppdrag på plattformen. Slik gjør du det:
-
-* Registrer oppdraget på plattformen (BrainBase.no/oppdrag/nytt)
-* Konsulenter som er interessert tar kontakt gjennom plattformen.
-* Du formidler videre CVer som du mener kan være interessante til bedriften.
-* Dersom en konsulent ender opp med kontrakt, velger du «Tildel kontrakt» på dialogsiden med denne konsulenten. Du blir da automatisk satt til å motta 1% av timeraten som konsulenten får.
-
-### Ta ansvar for oppdrag registrert på Trello boardet BrainBase utlysninger
-
-BrainBase har etterhvert mange avtaler mot offentlige kunder og det er for mye for en person å håndtere svar på utlysninger fra alle disse. Dersom man “håndterer en utlysning” til en av disse kundene får man derfor 1% kickback av det som blir fakturert dersom det ender med kontrakt. For en kontrakt verdt 2MNOK vil du altså sitte igjen med 20.000 NOK.
-
-#### Hva innebærer det å “ta ansvar for et tilbud”
-Alle offentlige kunder bruker et innkjøpssystem der utlysninger legges ut, f.eks Eu-supply, Mercell eller TendSign. Når det lyses ut oppdrag på en avtale vi er med på sendes det ut en mail med en lenke til informasjon om utlysningen. Vi henter da ut denne informasjonen og legger alle vedlegg ut på et nytt kort i Trello boardet BrainBase - Utlysninger, i kolonnen “Nye”. Dette er per dags dato en manuell prosess som blir håndtert sentralt. Det vil da bli postet en melding i Slack kanalen #customer-activities. Når det skjer er det mulig, i prinsippet i alle fall, for hvem som helst å “ta ansvar for utlysningen”. Her er prosessen for dette:
-
-
-1. Gå inn i nevnte Trello board. Sett deg selv som “Member” på kortet og flytt det til “Registrert på brainbase.no” slik at andre kan se at noen andre håndterer denne utlysningen.
-2. Registrer prosjektet på brainbase.no (mer detaljer om hvordan senere i dette dokumentet). Det blir automatisk postet en melding på Slack i #leads kanalen. Det blir også sendt en e-post til konsulenter som kan passe til oppdraget (denne algoritmen er veldig enkel for øyeblikket og kan forbedres). 
-3. Konsulenter kan nå registrere interesse for et prosjekt ved å klikke “Jeg er interessert” på siden som beskriver oppdraget.
-4. Når en konsulent “melder interesse” vil du som “oppdragsgiver” for dette oppdraget få beskjed på e-post om dette. Dere kan nå chatte med hverandre gjennom plattformen.
-5. For alle oppdrag til offentlig er det krav om å sende inn minst en CV og ofte også en besvarelse på en del spørsmål som kunden har (mer om det litt senere i dokumentet). Både CV og evt besvarelsesdokument skal lastet opp på siden for oppdraget. Konsulenten skal også angi pris og må da ta hensyn til modellen til BrainBase (3 % av timeprisen som tilbys kunden går til BrainBase, 97% til konsulenten)
-6. Før tidsfristen går ut må dokumenter lastes opp i innkjøpssystemet som kunden bruker (eu-supply, mercell eller tendsign). Brukernavn og passord fås ved forespørsel til ketil@brainbase.no
-7. Når alt er klart for innsending kan dere kontakte Ketil Jensen på Slack eller på epost ketil@brainbase.no for signering (på sikt ønsker vi å se på muligheten for at alle kan signere)
-8. Kunden tar kontakt dersom det er ønskelig å få en kandidat inn på intevju. Dette må så videreformidles til konsulent.
-9. I tilfelle kontrakt blir gitt går du inn på den aktuelle dialogen med konsulent og trykker “Tildel kontrakt”. Dette sparker igang kontraktsgenerering og konsulenten kan fylle ut nødvendige ting som kontonummer og organisasjonsnummer som trengs for fakturering. Det blir generert en kontrakt mellom BrainBase og konsulent som sendes til konsulent for signering. Kontrakten mellom BB og kunde legges ved som bilag til kontrakten når den er ferdig signert både av BB og kunde.
-**NB! For dette steget trenger du altså bare å klikke “Tildel kontrakt”. Resten håndteres av plattformen**
-
-#### Legge inn nytt oppdrag på plattformen
-Alle kan legge ut nye oppdrag på plattformen. Når du legger inn et oppdrag vil det automatisk bli sendt ut en melding på Slack og en e-post til konsulenter som kan matche oppdraget. Nytt oppdrag siden ser slik ut:
+|Spørsmål|Svar|
+|--------|----|
+|Hvordan fungerer modellen for partnere?|For oppdrag som legges ut på BB-platformen av partnere tar BB 2% i platform-avgift, og partner som legger ut og administrerer alt ved oppdraget kan i tillegg ta 0% til 3% i cut til seg. Konsulenten som er i oppdrag vil sitte igjen med minimum 95% av timeprisen.|
+|Hva er en partner?|Et partnerselskap er et selskap med over 10 ansatte som BB har valgt å samarbeide med. Det kan være et mindre selskap som har vokst seg større, eller et annet selskap som vi ser på som en likeverdig samarbeidspartner.|
+|Hvordan fungerer modellen for konsulenter i BB-nettverket?|For oppdrag som legges ut på BB-platformen av konsulenter tar BB 2% i platform-avgift, og konsulenten som legger ut og administrerer alt ved oppdraget kan i tillegg ta 0% til 3% i cut til seg.Konsulenten som er i oppdrag vil sitte igjen med minimum 95% av timeprisen.|
+|Må jeg som konsulent gjøre hele den administrative jobben knyttet til et oppdrag for å få en cut?| Ja. For å kunne ta betalt for et oppdrag via BB-platformen må konsulenten ta ansvaret for alt det administrative knyttet til oppdraget; legge ut på BB, velge ut konsulenter for kunden, holde dialogen med kunde og med konsulenter som melder interesse for oppdraget. Konsulenten må også forvente å håndtere eventuelle spørsmål fra kunde eller konsulent underveis i oppdraget.|
+|Hvor lenge får konsulenten cut for et oppdrag?|Konsulenten vil få cut under hele oppdragets varighet.| 
+|Kan jeg øke cut for eksisterende oppdrag (som jeg har tilrettelagt for og får 1% for nå) om jeg vil?|Nei, modellen har ikke tilbakevirkende kraft.|
+|Kan jeg endre cut underveis på et oppdrag?|Det gis ikke mulighet til øke cut underveis. Reduksjon i cut kan derimot gjøres ved forlengelse av kontrakt (praktisk å ikke måtte oppdatere kontrakter underveis).|
+|Kan jeg kombinere denne modellen med cut fra leads-modellen?|Du vil kunne få cut fra både leads-modellen og fra partnermodellen, men total cut er begrenset til 3%.|
+|Hvordan registrerer jeg i praksis min ønskede cut?| Dette gjøres som en del av å registrere oppdrag|
+|Hva med de andre modellene vi har eller har hatt i BB? Blir de borte? BB jobber for å ha en modell som bygger mest mulig opp under en platformtankegang, der kostnaden er knyttet til transaksjonene som gjøres, og der medlemmer belønnes for jobben de gjør med å hjelpe andre. I tillegg tilstreber vi forenkling, for en modell som kan skalere, og for en modell som ikke gir oss høye, faste kostnader. Hittil har vi testet ut ulike modeller for belønning og samarbeid. Basert på erfaringene vi har gjort oss med de foregående modellene, ønsker vi nå å videreutvikle oss med en ny modell. Siden vi ønsker å forenkle så avslutter vi samtidig de tidligere/andre modellene.|
+|Hvorfor gjør BrainBase denne endringen?|Hensikten er å få en ny kanal/måte for flere oppdrag inn på platformen, og at dette skal være et attraktivt incentiv for konsulentene til å bidra.Modellen skalerer også bedre enn dersom én eller to stykker skal ha alt ansvaret for å gjøre all jobben. Tanken er videre å være en ekte platform, der BB stiller platformen tilgjengelig mot en liten platformavgift, og at de som bringer oppdrag inn på den får sin belønning for det.|
 
 
 
+### FAQ Leads modell (for konsulenter)
 
-
-
-Her er en beskrivelse av de ulike feltene.
-
-**Tittel:**
-Dette feltet beskriver rollen, f.eks “Teknisk arkitekt” eller “Senior utvikler”
-
-**Sted:**
-Fysisk lokasjon for oppdrag. Dersom Remote tillates en en skrive f.eks “Oslo/Remote”
-
-
-**Roller**
-Velg de(n) rollen(e) som passer best for oppdraget. For en prosjektleder stilling vil en velge “Prosjektleder”. Det er roller som brukes til å matche opp mot konsulenter når vi prøver å foreslå konsulenter som kan matche oppdraget.
-
-
-**Kvalifikasjoner:**
-Dette er en liste over kvalifikasjoner som er viktige for å møte behovet til kunden. Man kan legge inn mange tags. Dersom det f.eks er en utvikler stilling for en fullstack utvikler der teknologistack er Java på backend og React på frontend legger man inn en tag for hver av disse.
-
-
-**Kort beskrivelse:**
-Her legger en inn en tekstlig beskrivelse av oppdraget. For offentlige oppdrag er det ikke så viktig å legge inn alt her siden det står i dokumenter som legges ved oppdraget.
-
-
-**Tilbudsfrist:**
-Alle offentlige tilbud har en “hard deadline”, ofte kl 12:00 på en gitt dato. Sett tilbudsfristen på oppdraget minst 1 dag før slik at det er tid å få inn alle tilbud.
-
-
-**Last opp dokument:**
-Her laster du opp de dokumenter som kom med utlysningen. Her skal alt av informasjon om tilbudet stå + et sted en kan besvare spørsmål som kunden har.
-
-#### Beskrivelse av de ulike offentlige aktører
-Her gis en kort beskrivelse av de ulike kundene vi har avtaler med i offentlig sektor og hva vi tror er viktig ifm tilbud til disse.
-
-
-**Ruter og Konsentra**
-Tilbud til Ruter og Konsentra er veldig enkle å utforme. De spør alltid etter 2 ting for hver konsulent:
-
-1. CV
-2. Besvarelsesdokument. Her stilles det en del spørsmål som må besvares på. Det er viktig at det gjøres en god jobb med besvarelsesdokumente. Dette dokumentet brukes til å sile ut kandidater og ses alltid først på. Som sagt, gi gode svar som kan synliggjøre og fremheve kompetansen. Det er konsulenten selv som fyller ut dokumentet.
-
-
-**Norsk helsenett**
-Norsk helsenett har litt av det samme opplegget som Ruter. De ber også om CV og en besvarelse på spørsmål som oppdragsgiver har. NHN ønsker CVer som er rettet inn mot kompetansen som bes om i dette oppdraget.
+|Spørsmål|Svar|
+|--------|----|
+|Hva er hensikten med modellen?|Hensikten med modellen er å belønne de som får kunder til platformen og som genererer oppdrag til BrainBase. Denne modellen krever ikke noen jobb med selve oppdraget, og derfor gir den litt mindre belønning enn for de som har ansvaret for det praktiske rundt et oppdrag.|
+|Hvordan fungerer incentivmodellen?|Modellen fungerer slik at dersom en konsulent i nettverket tipser/henviser en kunde til BrainBase og dette fører til at vedkommende kunde registrerer (et eller flere) oppdrag på platformen, så vil den som har fått kunden til oss kvalifisere for 1% cut av timeprisen.|
+|Hva kreves for å få cut?|Det må være en reell og faktisk sammenheng mellom konsulentens tips/henvisning til BrainBase og at kunden registrerer seg og publiserer oppdrag. Oppdraget trenger nødvendigvis ikke å skje umiddelbart.|
+|Hvor lenge får jeg cut?|Konsulenten får 1% cut under hele oppdragets varighet.|
+|Kan jeg kombinere denne modellen med cut fra partner-modellen?| Du vil kunne få cut fra både leads-modellen og fra partnermodellen, men total cut er begrenset til 3%.|
