@@ -10,7 +10,7 @@ For å stimulere til å få flere oppdrag inn på plattformen har vi i tillegg e
 ### Beskrivelse av modellen
 **BrainBase tar alltid 2% i plattformavgift for alle oppdrag som blir formidlet på plattformen. Ingen unntak.**
 
-Resten av cut'en blir forelt utifra følgende delingsmodell:
+Resten av cut'en blir fordelt utifra følgende delingsmodell:
 
 * Alle oppdrag fra BrainBase eksisterende kunder og fremtidige kunder (det vil si avtaler som BrainBase som selskap skaffer - inkludert dynamiske innkjøpsordninger i offentlig), vil ha 1 % cut på toppen av 2% plattformavgift. Den ene prosenten tilfaller personen som la ut oppdraget og betales tilbake som kickback.
 * Hvis du skaffer en kundelead som ender i at kunde registrerer seg og bruker vår selvbetjeningsløsning, får du 1 av de 3 prosentene hvis dette ender med oppdrag til en konsulent i nettverket. Dette gjelder så lenge oppdraget varer.
