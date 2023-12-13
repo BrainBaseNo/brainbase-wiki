@@ -7,6 +7,7 @@ hide_table_of_contents: false
 # Delingsmodell på BrainBase plattformen
 For å stimulere til å få flere oppdrag inn på plattformen har vi i tillegg en delingsmodell som belønner de som kegger ut oppdrag på plattformen. Her er gjeldende modell, aktiv fra 12.12.2023. 
 
+### Beskrivelse av modellen
 **BrainBase tar alltid 2% i plattformavgift for alle oppdrag som blir formidlet på plattformen. Ingen unntak.**
 
 Resten av cut'en blir forelt utifra følgende delingsmodell:
