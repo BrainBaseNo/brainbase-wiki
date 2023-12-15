@@ -5,7 +5,7 @@ description: Hjelpe andre konsulenter inn i oppdrag
 hide_table_of_contents: false
 ---
 # Delingsmodell på BrainBase plattformen
-For å stimulere til å få flere oppdrag inn på plattformen har vi i tillegg en delingsmodell som belønner de som kegger ut oppdrag på plattformen. Her er gjeldende modell, aktiv fra 12.12.2023. 
+For å stimulere til å få flere oppdrag inn på plattformen har vi i tillegg en delingsmodell som belønner de som legger ut oppdrag på plattformen. Her er gjeldende modell, aktiv fra 12.12.2023. 
 
 ### Beskrivelse av modellen
 **BrainBase tar alltid 2% i plattformavgift for alle oppdrag som blir formidlet på plattformen. Ingen unntak.**
@@ -30,7 +30,7 @@ Det vil si: Som konsulent sitter du alltid igjen med mellom 95 og 97% av inntekt
 |Hvor lenge får konsulenten cut for et oppdrag?|Konsulenten vil få cut under hele oppdragets varighet.| 
 |Kan jeg øke cut for eksisterende oppdrag (som jeg har tilrettelagt for og får 1% for nå) om jeg vil?|Nei, modellen har ikke tilbakevirkende kraft.|
 |Kan jeg endre cut underveis på et oppdrag?|Det gis ikke mulighet til øke cut underveis. Reduksjon i cut kan derimot gjøres ved forlengelse av kontrakt (praktisk å ikke måtte oppdatere kontrakter underveis).|
-|Kan jeg kombinere denne modellen med cut fra leads-modellen?|Du vil kunne få cut fra både leads-modellen og fra partnermodellen, men total cut er begrenset til 3%.|
+|Kan jeg kombinere denne modellen med cut fra leads-modellen?|Du vil kunne få cut fra både leads-modellen og fra partnermodellen, men total cut for deg er begrenset oppad til 3%. BrainBase tar som alltid 2% på oppdrag formidlet. Konsulenten vil alltid sitte igjen med minimum 95%|
 |Hvordan registrerer jeg i praksis min ønskede cut?| Dette gjøres som en del av å registrere oppdrag|
 |Hva med de andre modellene vi har eller har hatt i BB? Blir de borte? BB jobber for å ha en modell som bygger mest mulig opp under en platformtankegang, der kostnaden er knyttet til transaksjonene som gjøres, og der medlemmer belønnes for jobben de gjør med å hjelpe andre. I tillegg tilstreber vi forenkling, for en modell som kan skalere, og for en modell som ikke gir oss høye, faste kostnader. Hittil har vi testet ut ulike modeller for belønning og samarbeid. Basert på erfaringene vi har gjort oss med de foregående modellene, ønsker vi nå å videreutvikle oss med en ny modell. Siden vi ønsker å forenkle så avslutter vi samtidig de tidligere/andre modellene.|
 |Hvorfor gjør BrainBase denne endringen?|Hensikten er å få en ny kanal/måte for flere oppdrag inn på platformen, og at dette skal være et attraktivt incentiv for konsulentene til å bidra.Modellen skalerer også bedre enn dersom én eller to stykker skal ha alt ansvaret for å gjøre all jobben. Tanken er videre å være en ekte platform, der BB stiller platformen tilgjengelig mot en liten platformavgift, og at de som bringer oppdrag inn på den får sin belønning for det.|
