@@ -28,5 +28,11 @@
     "what": "Lunch meetup Oslo",
     "location": "Oslo Street Food",
     "href": "https://www.oslo-streetfood.no/"
+  },
+  {
+    "date": "2024-04-26 16:30",
+    "what": "BrainBase Beer",
+    "location": "TBA",
+    "href": ""
   }
 ] 
