@@ -44,5 +44,3 @@ Vi har vurdert følgende modell:
 * Overskuddet fordeles årlig basert på hver enkelts arbeidsinnsats.
 * Et sentralt problem er at medlemmene i et SA må ha direkte samhandling med foretaket, og i den modellen vi har skissert, blir ikke dette kravet oppfylt. Vi har hatt en dialog om dette med advokat Tore Fjortoft, som har over 20 års erfaring med samvirkeforetak. Grunnen er at man er både ansatt og indirekte eier av nettverket, gjennom ASet sitt medlemsskap. Siden man er ansatt som privatperson vil arbeidet man utfører knyttes til denne juridiske enhente og man kan ikke uten videre fordele overskudd basert på innsats til denne personens AS (medlemmet i SA-et)
 
-[Grundigere beskrivelse av fordeler og ulemper med et SA](./veileder-selskapsstruktur.md)
-
