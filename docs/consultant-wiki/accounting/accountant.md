@@ -4,7 +4,7 @@ title: Regnskapsfører
 description: Oversikt over regnskapsførere
 hide_table_of_contents: false
 ---
-BrainBase har fire offisielle samarbeid med regnskapsførere. Dersom du er BrainBase-medlem finner du dem på [medlemsfordeler](brainbase.no/medlemsfordeler). Der ser du også hva du må gjøre for å få rabatten.
+BrainBase har fire offisielle samarbeid med regnskapsførere:
 
 * [Altfor](https://altfor.no/) 
 Altfor er en regnskapstjeneste som spesialiserer seg på utvalgte bransjer, og kjenner derfor dine behov godt. Med egenutviklet teknologi sammen med fremoverlente regnskapsførere leverer Altfor kvalitet til samme lave pris per måned. Konsulenter tilknyttet BrainBase får 10% rabatt.
