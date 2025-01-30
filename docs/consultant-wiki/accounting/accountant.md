@@ -4,14 +4,18 @@ title: Regnskapsfører
 description: Oversikt over regnskapsførere
 hide_table_of_contents: false
 ---
-BrainBase has three official Partner accountants:
+BrainBase har fire offisielle samarbeid med regnskapsførere. Dersom du er BrainBase-medlem finner du dem på [medlemsfordeler](brainbase.no/medlemsfordeler). Der ser du også hva du må gjøre for å få rabatten.
 
-* [Kuber](http://www.kuber.no/). This is a smaller accounting company - set up especially to help other small businesses. Many, many people use Kuber for their accounting - including BrainBase itself. Kuber supports Fiken, so you can do some of the accounting yourself, and get help with the rest. Ta kontakt med Giang Chu: 980 52 546 / kuber@kuber.no. Nevn at du er et verifisert BrainBase medlem.
+* [Altfor](https://altfor.no/) 
+Altfor er en regnskapstjeneste som spesialiserer seg på utvalgte bransjer, og kjenner derfor dine behov godt. Med egenutviklet teknologi sammen med fremoverlente regnskapsførere leverer Altfor kvalitet til samme lave pris per måned. Konsulenter tilknyttet BrainBase får 10% rabatt.
+* [Kuber](http://www.kuber.no/). Kuber er et lite regnskapsbyrå som er spesielt opprettet for å hjelpe små selskaper. Mange bruker Kuber til sitt regnskap – inkludert BrainBase selv. Kuber støtter Fiken, slik at du kan gjøre deler av regnskapet selv og få hjelp med resten.
+Kontaktperson: Giang Chu – 980 52 546 / kuber@kuber.no.
+NB: Nevn at du er et verifisert BrainBase-medlem.
 * [Saga Regnskap og Økonomi](http://www.sagaro.no/). De er flinke på å små/enmanns AS, har fokus på rådgivning og kostnadsstyring. They are a traditional accountant, and fairly large in size, and will handle everything for you so you don’t need to think about accounting. They don’t support Fiken.
 * [SMB Accounting](https://smba.no/) - SMB Accounting leverer alle «standard» regnkapstjenester. Med vår høye faglige kompetanse hos stabile og erfarne kundeansvarlige kan vi være din økonomiske partner og rådgiver.
 NB: Bruker selv Tripletex og 24SevenOffice. Men hjelper også kunder med andre regnskapssystemer som f.eks Fiken.
 
-Other accountants that people in the network use and are satisfied with:
+Andre regnskapsførere som nettverket har gode erfaringer med:
 
 * [Rav1](http://www.rav1.no/)
 * [RegIt](https://www.regitregnskap.no)
