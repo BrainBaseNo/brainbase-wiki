@@ -1,5 +1,5 @@
 ---
-id: accountant
+id: partially_paid_invoice
 title: Delvis betalt faktura
 description: Beskriver fremgangsmåte fpr å håndtere delvis betalt faktura i Fiken
 hide_table_of_contents: false
