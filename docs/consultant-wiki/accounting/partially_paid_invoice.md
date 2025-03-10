@@ -1,3 +1,9 @@
+---
+id: accountant
+title: Delvis betalt faktura
+description: Beskriver fremgangsmåte fpr å håndtere delvis betalt faktura i Fiken
+hide_table_of_contents: false
+---
 # **Anbefalt fremgangsmåte for håndtering av delvis betalte fakturaer i Fiken ved konvertering til aksjer**
 
 Når du fakturerer en kunde der deler av fakturabeløpet skal konverteres til aksjer, bør dette håndteres riktig i regnskapet for å sikre korrekt bokføring og MVA-håndtering. Nedenfor er en anbefalt fremgangsmåte for å håndtere dette i Fiken.
