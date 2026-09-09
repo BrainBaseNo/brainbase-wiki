@@ -9,6 +9,9 @@ const config = {
   tagline: "Det foretrukne nettverket for selvstendige konsulenter",
   url: "https://wiki.brainbase.no",
   baseUrl: "/",
+  // One public URL form: no trailing slash. Paired with vercel.json so the
+  // slash form 308s instead of both variants returning 200.
+  trailingSlash: false,
   onBrokenLinks: "throw",
   favicon: "img/favicon.ico",
 
