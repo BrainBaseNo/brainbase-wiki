@@ -18,3 +18,5 @@ Tre nyhetssaker som forklarer situasjonen:
 - [Regjeringen forstår ikke hvordan IT-utvikling foregår i 2024](https://www.finansavisen.no/politikk/2024/03/21/8111547/regjeringen-forstar-ikke-hvordan-it-utvikling-foregar-i-2024)
 
 Se GitHub repoet [regelverk-for-innleie](https://github.com/andrerav/regelverk-for-innleie/) for mer informasjon.
+
+Er du oppdragsgiver? Les hvordan du kan [leie inn IT-konsulenter gjennom BrainBase](https://www.brainbase.no/lei-inn-konsulenter).
