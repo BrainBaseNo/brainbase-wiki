@@ -17,4 +17,4 @@ Gjeldende modell: konsulenten beholder 96 % av timeprisen. Totalt trekkes 4 %, f
 
 |Spørsmål|Svar|
 |--------|----|
-|Hva er en partner?|Et partnerselskap er et selskap med over 10 ansatte som BB har valgt å samarbeide med. Det kan være et mindre selskap som har vokst seg større, eller et annet selskap som vi ser på som en likeverdig samarbeidspartner.|
+|Hva er en partner?|Et partnerselskap er et lite konsulentselskap med under 10 ansatte som BrainBase samarbeider med. Vi samarbeider per i dag ikke med større selskaper.|
